@@ -19,8 +19,9 @@ public class paymentController {
     @ResponseBody
     public Payment HelloWord(){
         Payment payment = paymentMapper.selectByPrimaryKey(31l);
-        System.out.println("Hello,word");
-        System.out.println("Hello,word");
+        System.out.println("Hello,word1");
+        System.out.println("Hello,word2");
+        System.out.println("Hello,word3");
         return payment;
     }
 }
