@@ -22,6 +22,7 @@ public class paymentController {
         System.out.println("Hello,word1");
         System.out.println("Hello,word2");
         System.out.println("Hello,word3");
+        System.out.println("Hello,word4");
         return payment;
     }
 }
