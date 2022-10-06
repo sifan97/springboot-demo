@@ -21,6 +21,7 @@ public class paymentController {
         Payment payment = paymentMapper.selectByPrimaryKey(31l);
         System.out.println("hello");
         System.out.println("hello2");
+        System.out.println("hello3");
         return payment;
     }
 }
