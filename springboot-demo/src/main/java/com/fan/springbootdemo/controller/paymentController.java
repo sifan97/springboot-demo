@@ -20,6 +20,7 @@ public class paymentController {
     public Payment HelloWord(){
         Payment payment = paymentMapper.selectByPrimaryKey(31l);
         System.out.println("Hello,word");
+        System.out.println("Hello,word");
         return payment;
     }
 }
