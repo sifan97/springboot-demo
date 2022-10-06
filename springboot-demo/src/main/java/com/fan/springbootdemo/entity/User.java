@@ -1,6 +1,6 @@
 package com.fan.springbootdemo.entity;
 
 public class User {
-    private String name234;
+    private String nameB;
     private Integer age;
 }
