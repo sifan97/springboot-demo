@@ -8,4 +8,6 @@ public class User {
     private String wuhao;
 
     private String wwuhao2;
+
+    private String wwuhao3;
 }
