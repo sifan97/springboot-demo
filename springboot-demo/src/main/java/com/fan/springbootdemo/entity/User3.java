@@ -8,4 +8,8 @@ public class User3 {
     private String zancun4;
     private String zancun5;
     private String zancun6;
+
+    private String zancun18;
+    private String zancun19;
+
 }
