@@ -7,4 +7,5 @@ package com.fan.springbootdemo.entity;
 public class Fan {
     int age=3;
     String name="凡哥";
+    String address="安徽合肥";
 }
